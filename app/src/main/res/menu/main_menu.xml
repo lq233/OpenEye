@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/maiin_huancun"
+        android:icon="@mipmap/downloads"
+        android:title="离线缓存" />
+    <item
+        android:id="@+id/maiin_jilu"
+        android:icon="@mipmap/history"
+        android:title="观看记录" />
+    <item
+        android:id="@+id/maiin_hotmv"
+        android:icon="@mipmap/movie"
+        android:title="热映电影" />
+    <item
+        android:id="@+id/maiin_share"
+        android:icon="@mipmap/share"
+        android:title="分享" />
+    <item
+        android:id="@+id/maiin_more"
+        android:icon="@mipmap/more"
+        android:title="更多" />
+
+</menu>
